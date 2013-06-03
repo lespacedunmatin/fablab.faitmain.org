@@ -34,5 +34,11 @@ var events = [
    'type': 'meeting', 
    'title': 'OHM2013', 
    'url': 'https://ohm2013.org'},
+   
+  {'date': '2013-08-21 09:00:00', 
+   'type': 'meeting', 
+   'title': 'Fab9', 
+   'url': 'http://www.fab9jp.com/'},
+  
 ]
 
