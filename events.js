@@ -15,10 +15,10 @@ var events = [
    'title': 'Jérémie Zimmerman au FacLab', 
    'url': 'http://www.faclab.org/venez-assister-a-la-conference-de-jeremie-zimmerman-au-faclab-le-17-juin/'},
 
-  {'date': '2013-06-22 09:00:00', 
+  {'date': '2013-07-06 09:00:00', 
    'type': 'meeting', 
-   'title': 'Open Bidouille Camp', 
-   'url': 'http://openbidouille.net'},
+   'title': 'Open Bidouille Camp Ïle-de-France', 
+   'url': 'http://openbidouille.net/post/48939850851/obc-3-paris-apero-et-ag-elargie-le-7-mai'},
 
   {'date': '2013-06-23 09:00:00', 
    'type': 'meeting', 
